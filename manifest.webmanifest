@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "TradePath — Learn with a plan",
+  "short_name": "TradePath",
+  "description": "A calm, practical learning space for trading strategy, risk management, and paper practice.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#f5f6f2",
+  "icons": [
+    {
+      "src": "/icons/tradepath-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/tradepath-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
